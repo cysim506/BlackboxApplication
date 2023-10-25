@@ -13,7 +13,7 @@
 
 * index
   * 본 프로젝트에 사용된 구조 (이미지)
-  * <img width="821" alt="image" src="https://github.com/heoap9/BlackBoxApplication/assets/83992590/e6b9f613-44af-4847-9ca7-f4e676e9343c">
+  * <img width="821" alt="image" src="https://github.com/cysim506/BlackboxApplication/assets/83992590/e6b9f613-44af-4847-9ca7-f4e676e9343c">
 
 
   
