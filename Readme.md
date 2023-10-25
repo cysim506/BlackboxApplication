@@ -13,14 +13,14 @@
 
 * index
   * 본 프로젝트에 사용된 구조 (이미지)
-  * <img width="821" alt="image" src="https://github.com/cysim506/BlackboxApplication/assets/83992590/e6b9f613-44af-4847-9ca7-f4e676e9343c">
+  * <img width="821" alt="image" src="[https://github.com/cysim506/BlackboxApplication/assets/83992590/e6b9f613-44af-4847-9ca7-f4e676e9343c](https://github.com/cysim506/BlackboxApplication/blob/master/teamblock.png)">
 
 
   
 
 ## Demo
 * Blackbox 검증 페이지 이미지, 핵심코드
-* ![Animation1](https://github.com/heoap9/BlackBoxApplication/assets/83992590/e28a01ea-fced-4231-bb48-9d74b1a2f369)
+* ![Animation1]([https://github.com/heoap9/BlackBoxApplication/assets/83992590/e28a01ea-fced-4231-bb48-9d74b1a2f369](https://github.com/cysim506/BlackboxApplication/blob/master/Animation1.gif))
     * ~~~ JAVA
               /**
          * @param result The result of the operation computed by {@link #doInBackground}.
@@ -44,7 +44,7 @@
     * 
 
 * 메인 화면에서 선택기능 버튼을 보여줌
-* ![Animation2](https://github.com/heoap9/BlackBoxApplication/assets/83992590/7d946f09-0927-45f3-bc5e-c79f87ad87ba)
+* ![Animation2]([https://github.com/heoap9/BlackBoxApplication/assets/83992590/7d946f09-0927-45f3-bc5e-c79f87ad87ba](https://github.com/cysim506/BlackboxApplication/blob/master/Animation2.gif))
   * ~~~JAVA
     
         Button streambutton = findViewById(R.id.stream_button);
@@ -67,7 +67,7 @@
 
 
 * FIleList 목록
-* ![Animation3](https://github.com/heoap9/BlackBoxApplication/assets/83992590/d840b46a-6605-4649-8636-11f3b50dc1bc)
+* ![Animation3]([https://github.com/heoap9/BlackBoxApplication/assets/83992590/d840b46a-6605-4649-8636-11f3b50dc1bc](https://github.com/cysim506/BlackboxApplication/blob/master/Animation3.gif))
 
   * ~~~JAVA
     String[] lines = line.split("<br>");
@@ -82,7 +82,7 @@
     }
   
 * Filelist 선택 시 다운로드
-* ![Animation4](https://github.com/heoap9/BlackBoxApplication/assets/83992590/53e61c01-ac4f-420f-9823-7679c4c8ddd1)
+* ![Animation4]([https://github.com/heoap9/BlackBoxApplication/assets/83992590/53e61c01-ac4f-420f-9823-7679c4c8ddd1](https://github.com/cysim506/BlackboxApplication/blob/master/Animation4.gif))
 
   * ~~~JAVA
                 /**
