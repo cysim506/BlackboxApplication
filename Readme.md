@@ -1,4 +1,4 @@
-# Raspberrypi Blackbox with Android App
+# RaspberryPi Blackbox with Android App
 #### USB 저장은 물론  WIFI AP 혹은 LAN 통신으로
 #### 실시간 녹화 중인 상황을 표시하며 저장된 파일의 목록을 확인 할 수 있다!
 
